@@ -123,12 +123,12 @@ body{
 
     #instruction-text{
         position: absolute;
-        top: 66%;
+        top: 62%;
         color: #333;
         width: 200px;
         text-align: center;
         text-transform: capitalize;
-        padding: 30px;
+        padding: 20px;
         margin: 0;
         font-size: 20px;
     }
@@ -138,7 +138,7 @@ body{
     }
 
     #logo {
-        width: 200px; /* Smaller logo */
+        width: 250px; /* Smaller logo */
         height: 150px;
         top: 33%;
     }
